@@ -19,7 +19,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "CleanCityAPI.Models.DTOs.OperatorCreateDto",
+        "Type": "CleanCity.Application.Dtos.Operator.OperatorCreateDto",
         "IsRequired": true
       }
     ],
@@ -56,7 +56,7 @@
       },
       {
         "Name": "dto",
-        "Type": "CleanCityAPI.Models.DTOs.OperatorUpdateDto",
+        "Type": "CleanCity.Application.Dtos.Operator.OperatorUpdateDto",
         "IsRequired": true
       }
     ],

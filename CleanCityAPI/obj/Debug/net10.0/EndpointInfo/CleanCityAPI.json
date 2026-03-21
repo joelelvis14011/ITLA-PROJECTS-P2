@@ -134,19 +134,15 @@
   "components": {
     "schemas": {
       "OperatorCreateDto": {
-        "required": [
-          "name",
-          "position"
-        ],
         "type": "object",
         "properties": {
           "name": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "position": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "isActive": {
             "type": "boolean"
@@ -155,19 +151,19 @@
         "additionalProperties": false
       },
       "OperatorUpdateDto": {
-        "required": [
-          "name",
-          "position"
-        ],
         "type": "object",
         "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
           "name": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "position": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "isActive": {
             "type": "boolean"

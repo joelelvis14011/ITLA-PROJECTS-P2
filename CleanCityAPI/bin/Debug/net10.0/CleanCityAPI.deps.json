@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "CleanCityAPI/1.0.0": {
         "dependencies": {
+          "CleanCity.Application": "1.0.0",
           "CleanCity.Domain": "1.0.0",
           "CleanCity.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.2",
@@ -805,6 +806,17 @@
           }
         }
       },
+      "CleanCity.Application/1.0.0": {
+        "dependencies": {
+          "CleanCity.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanCity.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "CleanCity.Domain/1.0.0": {
         "runtime": {
           "CleanCity.Domain.dll": {
@@ -1176,6 +1188,11 @@
       "sha512": "sha512-o94k2RKuAce3GeDMlUvIXlhVa1kWpJw95E6C9LwW0KlG0nj5+SgCiIxJ2Eroqb9sLtG1mEMbFttZIBZ13EJPvQ==",
       "path": "system.security.cryptography.protecteddata/9.0.4",
       "hashPath": "system.security.cryptography.protecteddata.9.0.4.nupkg.sha512"
+    },
+    "CleanCity.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "CleanCity.Domain/1.0.0": {
       "type": "project",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanCityAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c89065f7373a079f76a43e7e17525ca00321c9d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanCityAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanCityAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

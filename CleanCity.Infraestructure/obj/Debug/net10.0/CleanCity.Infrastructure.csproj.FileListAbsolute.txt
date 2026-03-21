@@ -15,3 +15,4 @@ C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\ref
 C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.pdb
 C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.genruntimeconfig.cache
 C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\ref\CleanCity.Infrastructure.dll
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.sourcelink.json

@@ -1115,6 +1115,19 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "CleanCity.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "CleanCity.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanCity.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanCity.Application.dll": {}
+        }
+      },
       "CleanCity.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -3282,6 +3295,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CleanCity.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanCity.Application/CleanCity.Application.csproj",
+      "msbuildProject": "../CleanCity.Application/CleanCity.Application.csproj"
+    },
     "CleanCity.Domain/1.0.0": {
       "type": "project",
       "path": "../CleanCity/CleanCity.Domain.csproj",
@@ -3295,6 +3313,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "CleanCity.Application >= 1.0.0",
       "CleanCity.Domain >= 1.0.0",
       "CleanCity.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.2",
@@ -3337,6 +3356,9 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
+            "C:\\c#-practice\\Tarea 2\\CleanCity\\CleanCity.Application\\CleanCity.Application.csproj": {
+              "projectPath": "C:\\c#-practice\\Tarea 2\\CleanCity\\CleanCity.Application\\CleanCity.Application.csproj"
+            },
             "C:\\c#-practice\\Tarea 2\\CleanCity\\CleanCity.Infraestructure\\CleanCity.Infrastructure.csproj": {
               "projectPath": "C:\\c#-practice\\Tarea 2\\CleanCity\\CleanCity.Infraestructure\\CleanCity.Infrastructure.csproj"
             },

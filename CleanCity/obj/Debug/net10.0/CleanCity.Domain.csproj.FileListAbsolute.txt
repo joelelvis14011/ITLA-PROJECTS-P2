@@ -9,3 +9,4 @@ C:\c#-practice\Tarea 2\CleanCity\CleanCity\obj\Debug\net10.0\CleanCity.Domain.dl
 C:\c#-practice\Tarea 2\CleanCity\CleanCity\obj\Debug\net10.0\refint\CleanCity.Domain.dll
 C:\c#-practice\Tarea 2\CleanCity\CleanCity\obj\Debug\net10.0\CleanCity.Domain.pdb
 C:\c#-practice\Tarea 2\CleanCity\CleanCity\obj\Debug\net10.0\ref\CleanCity.Domain.dll
+C:\c#-practice\Tarea 2\CleanCity\CleanCity\obj\Debug\net10.0\CleanCity.Domain.sourcelink.json

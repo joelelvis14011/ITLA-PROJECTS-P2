@@ -163,3 +163,7 @@ C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\bin\Debug\net10.0\CleanCity.Domain
 C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\bin\Debug\net10.0\CleanCity.Infrastructure.dll
 C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\bin\Debug\net10.0\CleanCity.Infrastructure.pdb
 C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\bin\Debug\net10.0\CleanCity.Domain.pdb
+C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\bin\Debug\net10.0\CleanCity.Application.dll
+C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\bin\Debug\net10.0\CleanCity.Application.pdb
+C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\obj\Debug\net10.0\CleanCityAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\c#-practice\Tarea 2\CleanCity\CleanCityAPI\obj\Debug\net10.0\CleanCityAPI.sourcelink.json
