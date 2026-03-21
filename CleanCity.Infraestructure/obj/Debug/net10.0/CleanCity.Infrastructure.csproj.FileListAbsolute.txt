@@ -1,0 +1,17 @@
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.csproj.AssemblyReference.cache
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.AssemblyInfoInputs.cache
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.AssemblyInfo.cs
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\bin\Debug\net10.0\CleanCity.Infrastructure.deps.json
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\bin\Debug\net10.0\CleanCity.Infrastructure.runtimeconfig.json
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\bin\Debug\net10.0\CleanCity.Infrastructure.dll
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\bin\Debug\net10.0\CleanCity.Infrastructure.pdb
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\bin\Debug\net10.0\CleanCity.Domain.dll
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\bin\Debug\net10.0\CleanCity.Domain.pdb
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCit.60F1AB76.Up2Date
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.dll
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\refint\CleanCity.Infrastructure.dll
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.pdb
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\CleanCity.Infrastructure.genruntimeconfig.cache
+C:\c#-practice\Tarea 2\CleanCity\CleanCity.Infraestructure\obj\Debug\net10.0\ref\CleanCity.Infrastructure.dll
