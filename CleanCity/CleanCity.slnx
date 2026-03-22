@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CleanCity.Application/CleanCity.Application.csproj" Id="23028710-a984-40d6-8f0c-90d4cc54e8fa" />
   <Project Path="CleanCity.Infraestructure/CleanCity.Infrastructure.csproj" Id="ee84a257-bfff-435a-b486-7c739fd4b7c0" />
   <Project Path="CleanCity/CleanCity.Domain.csproj" Id="43bfc34f-cb4b-4e29-859d-af1cec97085c" />
   <Project Path="CleanCityAPI/CleanCityAPI.csproj" />

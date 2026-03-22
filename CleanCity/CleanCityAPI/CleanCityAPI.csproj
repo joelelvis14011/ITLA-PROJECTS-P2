@@ -18,6 +18,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\CleanCity.Application\CleanCity.Application.csproj" />
 		<ProjectReference Include="..\CleanCity.Infraestructure\CleanCity.Infrastructure.csproj" />
 		<ProjectReference Include="..\CleanCity\CleanCity.Domain.csproj" />
 	</ItemGroup>

@@ -1,3 +1,5 @@
+using CleanCity.Application.Contract;
+using CleanCity.Application.Service;
 using CleanCity.Domain.Repository;
 using CleanCity.Infrastructure.Context;
 using CleanCity.Infrastructure.Repository;
@@ -14,6 +16,9 @@ builder.Services.AddDbContext<CleanCityDbContext>(options =>
 builder.Services.AddScoped<IOperatorRepository, OperatorRepository>();
 builder.Services.AddScoped<IC_RouteRepository, C_routeRepository>();
 builder.Services.AddScoped<ICollectionRepository, CollectionRepository>();
+
+// Registrar servicios
+builder.Services.AddScoped<IOperatorService, OperatorService>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
